@@ -1,0 +1,25 @@
+# ── Core data science
+numpy==2.4.4
+pandas==3.0.6
+scipy==1.15.3              
+
+# ── Machine learning 
+scikit-learn==1.9.1
+xgboost==3.4.1
+lightgbm==4.7.0 
+           
+# ── Visualisation 
+matplotlib==3.11.2
+seaborn==0.13.2
+plotly==7.1.0      
+        
+# ── Model persistence 
+joblib==1.6.0
+
+# ── Streamlit UI 
+streamlit==1.64.0
+
+# ── Jupyter notebook support 
+jupyter==1.1.1
+ipykernel==6.29.5
+nbconvert==7.16.4
